@@ -1,0 +1,60 @@
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\bin\Debug\Практическая5.exe.config
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\bin\Debug\Практическая5.exe
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\bin\Debug\Практическая5.pdb
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\Практическая5.csproj.AssemblyReference.cache
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\Практическая5.csproj.SuggestedBindingRedirects.cache
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\CalendarPage.g.cs
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\MainWindow.g.cs
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\App.g.cs
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\Практическая5_MarkupCompile.cache
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\Практическая5_MarkupCompile.lref
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\CalendarPage.baml
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\MainWindow.baml
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\Практическая5.g.resources
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\Практическая5.Properties.Resources.resources
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\Практическая5.csproj.GenerateResource.cache
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\Практическая5.csproj.CoreCompileInputs.cache
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\Практическая5.csproj.CopyComplete
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\Практическая5.exe
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\Практическая5.pdb
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\DayControl.g.cs
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\DayControl.baml
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\DayInfoPage.g.cs
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\DayInfoPage.baml
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\SelectionControl.g.cs
+C:\Users\X-AROK\source\repos\Практическая5\Практическая5\obj\Debug\SelectionControl.baml
+D:\C# Projects\Практическая5\Практическая5\bin\Debug\Практическая5.exe.config
+D:\C# Projects\Практическая5\Практическая5\bin\Debug\Практическая5.exe
+D:\C# Projects\Практическая5\Практическая5\bin\Debug\Практическая5.pdb
+D:\C# Projects\Практическая5\Практическая5\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\C# Projects\Практическая5\Практическая5\bin\Debug\Newtonsoft.Json.dll
+D:\C# Projects\Практическая5\Практическая5\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\C# Projects\Практическая5\Практическая5\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\C# Projects\Практическая5\Практическая5\bin\Debug\Newtonsoft.Json.xml
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\Практическая5.csproj.AssemblyReference.cache
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\Практическая5.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\CalendarPage.g.cs
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\DayControl.g.cs
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\DayInfoPage.g.cs
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\MainWindow.g.cs
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\SelectionControl.g.cs
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\App.g.cs
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\Практическая5_MarkupCompile.cache
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\Практическая5_MarkupCompile.lref
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\CalendarPage.baml
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\DayControl.baml
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\DayInfoPage.baml
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\MainWindow.baml
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\SelectionControl.baml
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\Практическая5.g.resources
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\Практическая5.Properties.Resources.resources
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\Практическая5.csproj.GenerateResource.cache
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\Практическая5.csproj.CoreCompileInputs.cache
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\Практическая5.csproj.CopyComplete
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\Практическая5.exe
+D:\C# Projects\Практическая5\Практическая5\obj\Debug\Практическая5.pdb
